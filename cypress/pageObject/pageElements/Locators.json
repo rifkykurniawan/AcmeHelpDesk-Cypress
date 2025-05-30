@@ -1,0 +1,13 @@
+{
+    "HomePage":{
+        "AllMenu": ".Mui-selected > .MuiListItemText-root > .MuiTypography-root",
+        "OpenMenu": ":nth-child(2) > .MuiListItemText-root > .MuiTypography-root",
+        "PendingMenu": ":nth-child(3) > .MuiListItemText-root > .MuiTypography-root",
+        "ClosedMenu": ":nth-child(4) > .MuiListItemText-root > .MuiTypography-root",
+        "ChatStatus": ":nth-child(1) > :nth-child(8) > .MuiChip-root > .MuiChip-label",
+        "Filter1": "[data-source='customer_id'] > .MuiAutocomplete-root > .MuiFormControl-root > .MuiInputBase-root",
+        "User1": "#\\:r4\\:-option-0"
+
+        
+    }
+}
