@@ -32,7 +32,7 @@ describe('Home Page', () => {
         homePageActions.clickClosedMenu()
         homePageActions.verifyStatusText('closed')
     })
-    it.only('Click Filter', () => {
+    it ('Click Filter', () => {
         homePageActions.clickFilter1()
         homePageActions.selectUser1()
     })
